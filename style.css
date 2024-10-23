@@ -25,7 +25,7 @@ body {
     margin-left: 229px;
     margin-right: -156px;
     width: 707px;
-    background-image: url(Bai%204.3%20-%20Beauty.com/Images/bg.gif);
+    background-image: url(bg.gif);
     background-repeat: repeat-y;
 }
 body hr {
@@ -69,7 +69,7 @@ body hr {
     margin-left: 229px;
     margin-right: -156px;
     width: 707px;
-    background-image: url(Bai%204.3%20-%20Beauty.com/Images/bg.gif);
+    background-image: url(bg.gif);
     background-repeat: repeat-y;
 }
 .menu2 li a {
@@ -98,7 +98,7 @@ body hr {
     height: 613px;
     margin-left: 229px;
     margin-top: -8px;
-    background-image: url(Bai%204.3%20-%20Beauty.com/Images/bg.gif);
+    background-image: url(bg.gif);
 }
 .main .trai .anhtrai {
     padding-top: 23px;
@@ -248,17 +248,17 @@ body hr {
     width: 121px;
 }
 .trai .anhtrai #makeup:hover {
-	content: url("Bai 4.3 - Beauty.com/Images/makeUp_over.gif")
+	content: url("makeUp_over.gif")
 }
 .trai .anhtrai #formen:hover {
-	content: url("Bai 4.3 - Beauty.com/Images/for_men_over.gif")
+	content: url("for_men_over.gif")
 }
 .trai .anhtrai #hair:hover {
-	content: url("Bai 4.3 - Beauty.com/Images/hair_care_over.gif")
+	content: url("hair_care_over.gif")
 }
 .trai .anhtrai #fra:hover {
-	content: url("Bai 4.3 - Beauty.com/Images/fragrance_over.gif")
+	content: url("fragrance_over.gif")
 }
 .trai .anhtrai #sun:hover {
-	content: url("Bai 4.3 - Beauty.com/Images/sun_body_over.gif")
+	content: url("sun_body_over.gif")
 }
